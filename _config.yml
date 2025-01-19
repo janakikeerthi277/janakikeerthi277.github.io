@@ -1,9 +1,11 @@
-title: "Janaki Keerthi's Portfolio"
-description: "A portfolio of my projects, skills, and experience."
+title: "Janaki Keerthi"
+description: "Software Development Engineer"
 theme: jekyll-theme-cayman
-url: "https://janakikeerthi277.github.io"
-author: Janaki Keerthi
-email: janaki.keerthi@gmail.com
-social_links:
-  linkedin: https://linkedin.com/in/janakikeerthi
-  github: https://github.com/janakikeerthi277
+# plugins:
+#   - jekyll-remote-theme
+# url: "https://janakikeerthi277.github.io"
+# author: Janaki Keerthi
+# email: janaki.keerthi@gmail.com
+# social_links:
+#   linkedin: https://linkedin.com/in/janakikeerthi
+#   github: https://github.com/janakikeerthi277

@@ -328,6 +328,6 @@ a:hover { text-decoration: underline; }
 
 .social-links { margin-top: 15px; /* Space between title and icons */ display: flex; justify-content: center; /* Center the icons */ gap: 20px; /* Add space between the icons */ }
 
-.social-links a img { width: 30px; /* Set appropriate size for the icons */ height: auto; /* Maintain aspect ratio */ border-radius: 5px; /* Add rounded corners */ transition: transform 0.3s ease; /* Add hover effect */ }
+.social-links a img { margin-top: 30px; /* Increase the space between title and icons */ width: 30px; /* Set appropriate size for the icons */ height: auto; /* Maintain aspect ratio */ border-radius: 5px; /* Add rounded corners */ transition: transform 0.3s ease; /* Add hover effect */ }
 
 .social-links a img:hover { transform: scale(1.2); /* Slight zoom effect on hover */ }
